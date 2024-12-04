@@ -4,7 +4,7 @@ Challenge Your GitOps Knowledge.
 
 - https://cgoa.purutuladhar.com
 
-![Screenshot 2024-12-05 at 12 22 37 AM](https://github.com/user-attachments/assets/14caa03e-9b21-4bff-ad1b-e5949264d574)
+<img src='https://github.com/user-attachments/assets/14caa03e-9b21-4bff-ad1b-e5949264d574' width=720 />
 
 ## Local Development
 
